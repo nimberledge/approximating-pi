@@ -9,3 +9,9 @@ Understandably, this approximation does not converge too quick, but making graph
 If I have added a screenshot or gif of the program here (as there should be), then future me has remembered that I even started this project. Ciao.
 
 ![Circles gif](https://github.com/nimberledge/approximating-pi/blob/main/WOW_Circles.gif "WOW Circles")
+
+Oh yeah, controls. You'll need pygame to run the thing. 
+- Left and Right move N up and down. 
+- Space and backspace move N by 10. 
+- 7 Starts a periodic increase in N. 6 Stops this. 
+- 'q' quits.
